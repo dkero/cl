@@ -1,4 +1,0 @@
-cl
-==
-
-common lisp works
